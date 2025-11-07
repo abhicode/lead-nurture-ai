@@ -66,6 +66,8 @@ https://github.com/user-attachments/assets/5d0acf19-0391-4492-adac-561d776c07d1
    ```bash
    ./start.sh
    ```
+   Swagger/OpenAPI docs available at http://localhost:8000/api/docs
+   
 ### Frontend Setup
 1. Navigate to the frontend folder:
    ```bash
