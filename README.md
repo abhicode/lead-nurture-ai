@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/5d0acf19-0391-4492-adac-561d776c07d1
 
 - **Backend**: Django Ninja, Python 3.12, SQLite (default)
 - **Frontend**: React, Material UI
-- **AI**: OpenAI GPT-4o-mini
+- **AI**: OpenAI GPT-4o-mini, LangGraph
 - **Vector Database**: ChromaDB
 - **Deployment**: Render
 
