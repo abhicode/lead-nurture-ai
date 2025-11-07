@@ -80,5 +80,23 @@ https://github.com/user-attachments/assets/5d0acf19-0391-4492-adac-561d776c07d1
    npm run dev
    ```
 Frontend will run on http://localhost:3000 and backend on http://localhost:8000.
-   
-   
+
+### Ingestion
+`/api/documents/ingest/` endpoint is configured for the ingestion of PDFs to ChromaDB. It can be accessed without Authentication.
+
+Request Body:-
+```bash
+{
+   "file": string(binary)      # multipart/form-data
+}
+```
+Response Body:-
+```bash
+{
+    "message": "PDF ingested successfully",
+    "details": {
+        "chunks_ingested": 73,
+        "collection": "brochures"
+    }
+}
+```
