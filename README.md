@@ -2,6 +2,10 @@
 
 **LeadNurture** is an AI-powered CRM platform designed for real estate teams to automate lead nurturing, follow-ups, and personalized messaging. It combines Django Ninja for the backend API, React for the frontend, OpenAI for AI-generated responses, and ChromaDB for vector-based project/brochure retrieval.
 
+<img width="1837" height="1011" alt="Create Campaign" src="https://github.com/user-attachments/assets/972c11db-ee78-4b4b-b9d7-18f7b0aea8c2" />
+
+https://github.com/user-attachments/assets/5d0acf19-0391-4492-adac-561d776c07d1
+
 ---
 
 ## Features
