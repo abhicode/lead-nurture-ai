@@ -59,6 +59,7 @@ MIDDLEWARE.insert(1, "whitenoise.middleware.WhiteNoiseMiddleware")
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',  # Vite dev server
+    'https://lead-nurture-ai-1.onrender.com'
 ]
 
 ROOT_URLCONF = 'backend.urls'
