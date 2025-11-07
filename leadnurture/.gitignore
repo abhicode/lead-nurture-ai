@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Environment
+.env
+*.env
+
+# Django
+*.sqlite3
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.mo
+/staticfiles/
+media/
+.DS_Store
+
+# ChromaDB data
+chroma_data/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node / React
+node_modules/
+build/
+dist/
+*.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
